@@ -1,0 +1,5 @@
+matplotlib==3.10.5
+numba==0.61.2
+numpy==2.2.5
+scikit-learn==1.7.1
+tqdm==4.67.1
